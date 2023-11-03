@@ -310,8 +310,8 @@ Ini adalah keseluruhan program :
 > - **Hasil run/output setelah menggunakan style Bootstrap :**
 
 
-![img](pictures/Screenshot%20(184).png)
-![img](pictures/Screenshot%20(185).png)
+![img](pictures/Screenshot184.png)
+![img](pictures/Screenshot185.png)
 
 
 
